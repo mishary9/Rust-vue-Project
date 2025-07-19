@@ -21,6 +21,8 @@ git clone <your-repository-url>
 cd <your-project-directory>
 
 ``` 
+## Backend Setup (Rust)
+
 ### 2. Configure Database
 Navigate to your backend project folder and edit the .env file:
 ```env
@@ -48,6 +50,9 @@ cargo run
 ``` 
 The API will be available at:
 http://localhost:3000
+
+## Frontend Setup (Vue 3 + Vite)
+
 
 ### 5. Navigate to the Frontend Folder
 
