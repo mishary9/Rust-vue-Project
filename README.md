@@ -73,4 +73,22 @@ The frontend will be available at the URL shown in the console, typically:
 http://localhost:5173
 
 
+#### Api Endpoints
+
+Register a New User
+Method: POST
+
+URL: /api/register
+
+Description: Registers a new user using email and password.
+
+Login an Existing User
+Method: POST
+
+URL: /api/login
+
+Description: Authenticates a user with email and password.
+
+#### Notes
+Ensure both backend and frontend servers are running.
 
